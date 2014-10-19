@@ -1,0 +1,132 @@
+[
+  {
+    "Question_ID":46381,
+    "Ord":1,
+    "Question":"Motiveerib alluvaid ja kaastöötajaid iseseisvat vastutust võtma"
+  },
+  {
+    "Question_ID":46382,
+    "Ord":2,
+    "Question":"Oskab luua positiivset, initsiatiivi soosivat ja töist õhkkonda"
+  },
+  {
+    "Question_ID":46383,
+    "Ord":3,
+    "Question":"Püstitab realistlikke eesmärke ja määratleb nende saavutamise viise"
+  },
+  {
+    "Question_ID":46384,
+    "Ord":4,
+    "Question":"Julgeb vastu võtta ebapopulaarseid, kuid vajalikke otsuseid"
+  },
+  {
+    "Question_ID":46385,
+    "Ord":5,
+    "Question":"Täidab antud lubadusi ja peab kinni kohustustest"
+  },
+  {
+    "Question_ID":46386,
+    "Ord":6,
+    "Question":"Probleemsete olukordade puhul selgitab erinevate osapoolte seisukohti ja püüab konfliktidele leida erinevaid osapooli rahuldavaid lahendusi"
+  },
+  {
+    "Question_ID":46387,
+    "Ord":7,
+    "Question":"Ei väldi probleeme, vaid püüab neid lahendada"
+  },
+  {
+    "Question_ID":46388,
+    "Ord":8,
+    "Question":"Kaasab otsustamisesse inimesed, keda otsus puudutab"
+  },
+  {
+    "Question_ID":46389,
+    "Ord":9,
+    "Question":"Säilitab enesevalitsemise ka väga pingelistes olukordades, ei kasuta negatiivset hääletooni ( virisevat, vinguvat, tigedat …)"
+  },
+  {
+    "Question_ID":46390,
+    "Ord":10,
+    "Question":"Pakub ideid, teeb ettepanekuid tööülesannete paremaks lahendamiseks ja jälgib nende saatust"
+  },
+  {
+    "Question_ID":46391,
+    "Ord":11,
+    "Question":"Küsib kolleegide arvamust ja võtab argumenteeritud arvamuse arvesse"
+  },
+  {
+    "Question_ID":46392,
+    "Ord":12,
+    "Question":"Takistuste ilmnedes teeb korduvaid katseid nende ületamiseks"
+  },
+  {
+    "Question_ID":46393,
+    "Ord":13,
+    "Question":"Ei tee töid, mida peaksid tegema teised – oskab delegeerida"
+  },
+  {
+    "Question_ID":46394,
+    "Ord":14,
+    "Question":"Annab regulaarselt kolleegidele konstruktiivset tagasisidet"
+  },
+  {
+    "Question_ID":46395,
+    "Ord":15,
+    "Question":"Põhjendab oma arvamust ja ei jäta olulistel teemadel oma eriarvamust välja ütlemata"
+  },
+  {
+    "Question_ID":46542,
+    "Ord":16,
+    "Question":"On salliv eriarvamuste suhtes"
+  },
+  {
+    "Question_ID":46543,
+    "Ord":17,
+    "Question":"Kuulab sekkumata ja arvestab teiste tunnetega"
+  },
+  {
+    "Question_ID":46861,
+    "Ord":18,
+    "Question":"Koosolekuteks on ettevalmistunud"
+  },
+  {
+    "Question_ID":46862,
+    "Ord":19,
+    "Question":"Seisab oma osakonna, üksuse (kirjuta millise) töötajate huvide eest"
+  },
+  {
+    "Question_ID":46863,
+    "Ord":20,
+    "Question":"Oskab tööülesannete andmisel arvestada töötaja tugevuste ja nõrkustega, oskab juhendada"
+  },
+  {
+    "Question_ID":46401,
+    "Ord":21,
+    "Question":"Kui Sa peaksid teda iseloomustama kolme omadussõnaga oma sõbrale, siis millised need oleksid? Kirjuta 3 teda Sinu meelest kõige enam iseloomustavat omadussõna"
+  },
+  {
+    "Question_ID":46399,
+    "Ord":22,
+    "Question":"Palun kirjelda 3 tegevust, millega ta hästi hakkama saab Mida ta oskab hästi teha? Milliseid tööolukordi lahendab hästi? Millist oskuslikku tegevust peaks ta kindasti jätkama?"
+  },
+  {
+    "Question_ID":46544,
+    "Ord":221,
+    "Question":"Olukord 1"
+  },
+  {
+    "Question_ID":46546,
+    "Ord":222,
+    "Question":"Olukord 2"
+  },
+  {
+    "Question_ID":46545,
+    "Ord":223,
+    "Question":"Olukord 3"
+  },
+  {
+    "Question_ID":46400,
+    "Ord":224,
+    "Question":"Palun kirjelda üht tegevust, tööalast võtmeolukorda, mida annaks teisiti teha, et see võiks parema tulemuse anda Mida täpselt peaks ta proovima teisti teha? Kuidas? Kirjuta käitumisjuhend, mida saaks täita"
+  }
+]
